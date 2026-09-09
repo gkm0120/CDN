@@ -1,0 +1,850 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.19.3 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>  </title>
+<meta name="description" content="Attendee Site for Hot Chips 34 (2022)">
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="">
+<meta property="og:title" content="">
+<meta property="og:url" content="https://hotchips.org/">
+
+
+  <meta property="og:description" content="Attendee Site for Hot Chips 34 (2022)">
+
+
+
+
+
+  <meta name="twitter:site" content="@hotchipsorg">
+  <meta name="twitter:title" content="">
+  <meta name="twitter:description" content="Attendee Site for Hot Chips 34 (2022)">
+  <meta name="twitter:url" content="https://hotchips.org/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+  
+
+  
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://hotchips.org/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Hot Chips 34",
+      "url": "https://hotchips.org/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title=" Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single" >
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/img/hc_logo.png" alt=""></a>
+        
+        <a class="site-title" href="/">
+          
+          
+        </a>
+        <ul class="visible-links">
+<li class="masthead__menu-item">
+              <a href="/in-the-news/">In The News</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/sponsors_courtyard/">Sponsors Courtyard</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/about/committees/">Committees</a>
+            </li>
+</ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+<aside class="sidebar_right">
+
+  
+  <p class="text-center"><strong>HC34 Sponsors</strong><br>
+<strong>Rhodium:</strong><br>
+<a href="https://intel.com" target="_blank" rel="noopener noreferrer"><img src="/assets/img/sponsors/intel_200px.png" alt="Intel logo"></a><br>
+<strong>Platinum:</strong><br>
+<a href="https://www.amd.com" target="_blank" rel="noopener noreferrer"><img src="/assets/img/sponsors/amd_200px.jpg" alt="AMD logo"></a>
+<a href="https://jumptrading.com" target="_blank" rel="noopener noreferrer"><img src="/assets/img/sponsors/jumptrading_200px.png" alt="Jump Trading logo"></a><br>
+<strong>Gold:</strong><br>
+<a href="https://tii.ae" target="_blank" rel="noopener noreferrer"><img src="/assets/img/sponsors/tii-150px.jpg" alt="TII logo"></a>
+<a href="https://about.facebook.com" target="_blank" rel="noopener noreferrer"><img src="/assets/img/sponsors/meta-150px.png" alt="Meta logo"></a>
+<a href="https://nvidia.com" target="_blank" rel="noopener noreferrer"><img src="/assets/img/sponsors/nvidia_150px.png" alt="NVIDIA logo"></a>
+<a href="https://samsung.com" target="_blank" rel="noopener noreferrer"><img src="/assets/img/sponsors/samsung-150px.png" alt="Samsung logo"></a><br>
+<strong>Silver:</strong><br>
+<a href="https://www.mirabilisdesign.com/" target="_blank" rel="noopener noreferrer"><img src="/assets/img/sponsors/mirabilis_100px.png" alt="Mirabilis Design logo"></a>
+<a href="https://www.achronix.com/" target="_blank" rel="noopener noreferrer"><img src="/assets/img/sponsors/achronix_100px.png" alt="Achronix logo"></a>
+<a href="https://untether.ai/" target="_blank" rel="noopener noreferrer"><img src="/assets/img/sponsors/untetherai-100px.jpg" alt="UntetherAI logo"></a><br>
+<strong>Other:</strong></p>
+
+
+</aside>
+
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="">
+    
+    
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">
+</h1>
+          
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>Hot Chips 34 has concluded.
+Thank you to the speakers, attendees, sponsors, press, and volunteers!</p>
+
+<p><a href="https://hc34.hotchips.org/assets/program/full-program-v05.zip" target="_blank" rel="noopener noreferrer">latest program zipfile</a></p>
+
+<h2 id="tutorials-sunday-august-21-2022">Tutorials: Sunday, August 21, 2022</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Time (PDT)</th>
+      <th>Title</th>
+      <th>Presenters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:00AM-12:30PM</td>
+      <td>
+<em>CXL</em><br> <br>Chair: Nathan Kalyanasundharam, CXL Board &amp; AMD</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>9:00AM-10:00AM</td>
+      <td>
+<strong>CXL overview and evolution</strong><br>  <a href="/assets/program/tutorials/CXL/Hot%20Chips%202022%20CXL%20Overview%20and%20evolution.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/pHuHUeSmGGk" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Ishwar Agarwal,  Intel</td>
+    </tr>
+    <tr>
+      <td>10:00AM-11:00AM</td>
+      <td>
+<strong>CXL2/CXL3 coherency deep dive</strong><br>  <a href="/assets/program/tutorials/CXL/Hot%20Chips%202022%20CXL3%20Coherence%20Deep%20Dive.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/pHuHUeSmGGk?t=2364" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Robert Blankenship,  Intel</td>
+    </tr>
+    <tr>
+      <td>11:00AM-11:45AM</td>
+      <td>
+<strong>Memory use cases and challenges</strong><br>  <a href="/assets/program/tutorials/CXL/Hot%20Chips%202022%20CXL%20MemoryChallenges.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/pHuHUeSmGGk?t=5865" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Prakash Chauhan &amp; Mahesh Wagh,  Meta &amp; AMD</td>
+    </tr>
+    <tr>
+      <td>11:45AM-12:30PM</td>
+      <td>
+<strong>CXL3 Fabric introduction &amp; use cases</strong><br>  <a href="/assets/program/tutorials/CXL/Hot%20Chips%202022%20CXL3%20Fabric%20Intro%20and%20use%20cases.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/pHuHUeSmGGk?t=9471" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Tony Brewer &amp; Nathan Kalyanasundharam,  Micron &amp; AMD</td>
+    </tr>
+    <tr>
+      <td>12:30PM-1:30PM</td>
+      <td>
+<em>Break (1 hr)</em><br>
+</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1:30PM-5:00PM</td>
+      <td>
+<em>Heterogeneous Compilation in MLIR</em><br> <br>Chair: Stephen Neuendorffer, AMD</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Intro</strong><br>  <a href="/assets/program/tutorials/MLIR/HotchipsMLIRTutorialIntroFinal.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/VFexAjUoTZI" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Stephen Neuendorffer,  AMD</td>
+    </tr>
+    <tr>
+      <td>1:30PM-2:15PM</td>
+      <td>
+<strong>Basic Concepts</strong><br>  <a href="/assets/program/tutorials/MLIR/HC2022.Google.Pienaar.v1.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/VFexAjUoTZI?t=215" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Jacques Pienaar,  Google</td>
+    </tr>
+    <tr>
+      <td>2:15PM-3:10PM</td>
+      <td>
+<strong>Code Generation</strong><br>  <a href="/assets/program/tutorials/MLIR/HC2022.Nodai.Menon.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/VFexAjUoTZI?t=2861" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Harsh Menon,  Nod.AI</td>
+    </tr>
+    <tr>
+      <td>3:10PM-4:05PM</td>
+      <td>
+<strong>ML Frontends and frameworks</strong><br>  <a href="/assets/program/tutorials/MLIR/HC34.Arm.SurajSudhir.v03.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/VFexAjUoTZI?t=6232" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Suraj Sudhir,  Arm</td>
+    </tr>
+    <tr>
+      <td>4:05PM-5:00PM</td>
+      <td>
+<strong>CIRCT</strong><br>  <a href="/assets/program/tutorials/MLIR/HC2022.SiFive-MSFT.LenharthDemme.v1.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/VFexAjUoTZI?t=9298" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Andrew Lenharth &amp; John Demme,  SiFive &amp; Microsoft</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="conference-day-1-monday-august-22-2022">Conference Day 1: Monday, August 22, 2022</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Time (PDT)</th>
+      <th>Title</th>
+      <th>Presenters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8:45AM-9:00AM</td>
+      <td>
+<em>Introductions</em><br>
+</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Hot Chips 34 Welcome</strong><br>  <a href="/assets/program/conference/day1/Hot%20Chips%2034%20Welcome%20and%20Chairs%20Remarks.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/hxcAA32Htt0" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>9:00AM-11:00AM</td>
+      <td>
+<em>GPUs &amp; HPC</em><br> <br>Chair: Natalia Vassilieva, Cerebras</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>NVIDIA’s Hopper GPU: Scaling Performance</strong><br>  <a href="/assets/program/conference/day1/GPU%20HPC/HC2022.NVIDIA.Choquette.vfinal01.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/hxcAA32Htt0?t=433" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Jack Choquette &amp; Ronny Krashinsky,  NVIDIA</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>AMD Instinct™ MI200 Series Accelerator and Node Architectures</strong><br>  <a href="/assets/program/conference/day1/GPU%20HPC/HC2022.AMD.AlanSmith.v14.Final.20220820.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/hxcAA32Htt0?t=2356" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Alan Smith &amp; Norman James,  AMD</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Intel’s Ponte Vecchio GPU: Architecture, System and Software</strong><br>  <a href="/assets/program/conference/day1/GPU%20HPC/Intel_s%20Ponte%20Vecchio%20GPU%20-%20Architecture%20Systems%20and%20Software%20FINAL.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/hxcAA32Htt0?t=4038" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Hong Jiang,  Intel</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Biren BR100 GPGPU: Accelerating Datacenter Scale AI Computing</strong><br>  <a href="/assets/program/conference/day1/GPU%20HPC/HC2022.BirenTech.MikeHong.LingjieXu.v01.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/hxcAA32Htt0?t=5940" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Mike Hong &amp; Lingjie Xu,  Biren Technology</td>
+    </tr>
+    <tr>
+      <td>11:00AM-11:30AM</td>
+      <td>
+<em>Break</em><br>
+</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>11:30AM-12:00PM</td>
+      <td>
+<em>Integration Technologies (part1)</em><br> <br>Chair: Pradeep Dubey, Intel</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Passage—A Wafer-Scale, Programmable Photonic Communication Substrate</strong><br>  <a href="/assets/program/conference/day1/Integration%20Technologies/hc34_nharris_lightmatter%20(3).pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/YujDbndqqVQ" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Nicholas Harris,  Lightmatter</td>
+    </tr>
+    <tr>
+      <td>12:00PM-1:00PM</td>
+      <td>
+<em>Break</em><br>
+</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1:00PM-2:00PM</td>
+      <td>
+<em>Keynote #1</em><br> <br>Chair: Krste Asanovic, UC Berkeley/SiFive</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Semiconductors Run the World</strong><br>  <a href="/assets/program/conference/day1/Hot%20Chips_Pat%20Keynote_Presentation_08-18-22.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/I0PSz2aDjQI" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Pat Gelsinger,  Intel</td>
+    </tr>
+    <tr>
+      <td>2:00M-3:30PM</td>
+      <td>
+<em>Integration Technologies (part2)</em><br> <br>Chair: Pradeep Dubey, Intel</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Heterogenous Integration Enables FPGA Based Hardware Acceleration for RF Applications</strong><br>  <a href="/assets/program/conference/day1/Integration%20Technologies/HotChips_MCP_for_Wireless_Application_Intel.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/YujDbndqqVQ?t=1515" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Sergey Yuryevich Shumarayev,  Intel</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Enabling scalable application-specific optical engines (ASOE) by monolithic integration of photonics and electronics</strong><br>  <a href="/assets/program/conference/day1/Integration%20Technologies/HC2022.Ranovus.ChristophSchulien.v13.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/YujDbndqqVQ?t=3183" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Christoph Schulien,  Ranovus</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Scaling of Memory Performance and Capacity with CXL Memory Expander</strong><br>  <a href="/assets/program/conference/day1/Integration%20Technologies/Hot_Chips_2022_CXL_Memory_Expander_final.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/YujDbndqqVQ?t=5026" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Sung Joo Park,  Samsung</td>
+    </tr>
+    <tr>
+      <td>3:30PM-4:00PM</td>
+      <td>
+<em>Break</em><br>
+</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>4:00PM-6:00PM</td>
+      <td>
+<em>Academia</em><br> <br>Chair: Forest Baskett, NEA</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>HALO: A Flexible and Low Power Processing Fabric for Brain-Computer Interfaces</strong><br>  <a href="/assets/program/conference/day1/Academia/HC2022.Yale.Bhattacharjee.v5.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/eenFPogXcq4" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Abhishek Bhattacharjee &amp; Rajit Manohar,  Yale University</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Kraken: A Direct Event/Frame-Based Multi-sensor Fusion SoC for Ultra-Efficient Visual Processing in Nano-UAVs</strong><br>  <a href="/assets/program/conference/day1/Academia/HC2022.ethz.AlfioDiMauro.v2.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/eenFPogXcq4?t=1953" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Alfio Di Mauro,  ETH Zurich</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Amber: Coarse-Grained Reconfigurable Array-Based SoC for Dense Linear Algebra Acceleration</strong><br>  <a href="/assets/program/conference/day1/Academia/HC2022.Stanford.KathleenFeng.v2.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/eenFPogXcq4?t=3720" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Kathleen Feng,  Stanford</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Arm Morello Evaluation Platform - Validating CHERI-based Security in a High-performance System</strong><br>  <a href="/assets/program/conference/day1/Academia/HC2022.Arm.RichardGrisenthwaite.v1_0.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/eenFPogXcq4?t=5268" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Richard Grisenthwaite,  Arm</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="conference-day-2-tuesday-august-23-2022">Conference Day 2: Tuesday, August 23, 2022</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Time (PDT)</th>
+      <th>Title</th>
+      <th>Presenters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8:30AM-11:00AM</td>
+      <td>
+<em>Machine Learning</em><br> <br>Chair: Ronny Krashinsky, NVIDIA</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Groq Software-Defined Scale-out Tensor Streaming Multi-Processor</strong><br>  <a href="/assets/program/conference/day2/Machine%20Learning/HotChips34%20-%20Groq%20-%20Abts%20-%20final.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/MWQNjyEULDE" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Dennis Abts,  Groq</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Boqueria - Next Generation At-Memory Inference Acceleration Device with 1,000+ RISC-V cores</strong><br>  <a href="/assets/program/conference/day2/Machine%20Learning/HotChips_Boqueria_Presentation_v15.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/MWQNjyEULDE?t=1998" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Robert Beachler,  Untether AI</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>DOJO: The Microarchitecture of Tesla’s Exa-Scale Computer</strong><br>  <a href="/assets/program/conference/day2/Machine%20Learning/HotChips_tesla_dojo_uarch.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/MWQNjyEULDE?t=3678" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Emil Talpes,  Tesla</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>DOJO - Super-Compute System Scaling for ML Training</strong><br>  <a href="/assets/program/conference/day2/Machine%20Learning/Hotchip%20Dojo%20System%20v25.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/MWQNjyEULDE?t=5474" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Bill Chang,  Tesla</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Cerebras Architecture Deep Dive: First Look Inside the HW/SW Co-Design for Deep Learning</strong><br>  <a href="/assets/program/conference/day2/Machine%20Learning/HC2022_Cerebras_Final_v02.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/MWQNjyEULDE?t=7144" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Sean Lie,  Cerebras</td>
+    </tr>
+    <tr>
+      <td>11:00AM-11:30AM</td>
+      <td>
+<em>Break</em><br>
+</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>11:30AM-1:00PM</td>
+      <td>
+<em>Network and Switches</em><br> <br>Chair: Mark Hill, Microsoft/UW-Madison</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>AMD 400G Adaptive SmartNIC SOC</strong><br>  <a href="/assets/program/conference/day2/Network%20and%20Switches/Hotchips2022%20AMD%20400G%20Adaptive%20SmartNIC%20SoC%20-%20Final%20for%20Distribution.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/S117CO2KL-0" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Jaideep Dastidar,  AMD</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Juniper’s Express 5: A 28.8Tbps Network Routing ASIC and Variations</strong><br>  <a href="/assets/program/conference/day2/Network%20and%20Switches/HC2022.Juniper.ChangHong_Wu.v03.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/S117CO2KL-0?t=1916" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Chang-Hong Wu,  Juniper</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>NVLink-Network Switch - NVIDIA’s Switch Chip for High Communication-Bandwidth SuperPODs</strong><br>  <a href="/assets/program/conference/day2/Network%20and%20Switches/NVSwitch%20HotChips%202022%20r5.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/S117CO2KL-0?t=3830" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Alexander Ishii and Ryan Wells,  NVIDIA</td>
+    </tr>
+    <tr>
+      <td>1:00PM-2:00PM</td>
+      <td>
+<em>Break</em><br>
+</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2:00PM-3:00PM</td>
+      <td>
+<em>Keynote #2</em><br> <br>Chair: Ron Diamant, Amazon</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Beyond Compute - Enabling AI through System Integration</strong><br>  <a href="/assets/program/conference/day2/HotChips_AI_Keynote_V1.5.1_Final.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/ZL2aD4fKCS4" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Ganesh Venkataramanan,  Tesla Motors</td>
+    </tr>
+    <tr>
+      <td>3:00PM-4:30PM</td>
+      <td>
+<em>ADAS and Grace</em><br> <br>Chair: Ian Bratt, Arm</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>NVIDIA’s Orin System-on-Chip</strong><br>  <a href="/assets/program/conference/day2/ADAS%20and%20Grace/HC2022.NVIDIA.Mike_Ditty.v6.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/0hWxmlUApAA" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Michael Ditty,  NVIDIA</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>NODAR 3D Vision System: Enabling Mass Production of Autonomous Vehicles</strong><br>  <a href="/assets/program/conference/day2/ADAS%20and%20Grace/HC2022.NODAR.LeafJiang.v02.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/0hWxmlUApAA?t=1859" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Leaf Jiang,  NODAR</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>NVIDIA’s Grace CPU</strong><br>  <a href="/assets/program/conference/day2/ADAS%20and%20Grace/HC2022.NVIDIA%20Grace.JonathonEvans.v5.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/0hWxmlUApAA?t=3500" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Jonathon Evans,  NVIDIA</td>
+    </tr>
+    <tr>
+      <td>4:30PM-5:00PM</td>
+      <td>
+<em>Break</em><br>
+</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>5:00PM-7:00PM</td>
+      <td>
+<em>Mobile &amp; Edge Processors</em><br> <br>Chair: Debjit Das Sarma, Tesla</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>AMD Ryzen 6000 Series Processor</strong><br>  <a href="/assets/program/conference/day2/Mobile%20and%20Edge/AMD%20Ryzen%206000%20Series%20Processor%20-%20Hotchips34%20Final%2008222022.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/O4MKp-1RJb8" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Jim Gibney,  AMD</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Meteor Lake and Arrow Lake : Intel Next Gen 3D Client Architecture Platform with Foveros</strong><br>  <a href="/assets/program/conference/day2/Mobile%20and%20Edge/Meteor_Lake_Hotchips%20_%20Wilfred%20_%20final_submit%20(1).pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/O4MKp-1RJb8?t=1870" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Wilfred Gomes,  Intel</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Dimensity 9000 – A Flagship SmartPhone SoC</strong><br>  <a href="/assets/program/conference/day2/Mobile%20and%20Edge/HC2022.Mediatek.EricbillWang.v08.pptx.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/O4MKp-1RJb8?t=3552" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Ericbill Wang,  MediaTek</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Next-Generation Intel processor build for the edge - Intel Xeon D 2700 &amp; 1700</strong><br>  <a href="/assets/program/conference/day2/Mobile%20and%20Edge/HC2022.XeonDx700.PraveenMosur.FINAL.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/O4MKp-1RJb8?t=5418" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Praveen Mosur,  Intel</td>
+    </tr>
+    <tr>
+      <td>7:00PM-7:15PM</td>
+      <td>
+<em>HC34 Closing</em><br>
+</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>
+<strong>Hotchips Closing Remarks</strong><br>  <a href="/assets/program/conference/day2/hc34_closing_remarks.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="posters">Posters</h2>
+
+<p><a href="https://www.youtube.com/watch?v=POj3Ncb_Wig&amp;list=PL6K7l0MMrI1B8Pw7YnQM4_npYoqumrKer" target="_blank" rel="noopener noreferrer"><i class="fab fa-brands fa-youtube"></i><i class="fa fa-solid fa-list"></i></a> (NOTE: Not all posters have videos)</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Authors &amp; Affiliation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>DSPU: A 281.6mW Real-Time Deep Learning-Based Dense RGB-D Data Acquisition with Sensor Fusion and 3D Perception System-on-Chip <a href="/assets/program/posters/HC2022.KAIST.DongseokIm.v03.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/ozQChP8BkjA" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Dongseok Im, Gwangtae Park, Zhiyong Li, Junha Ryu, Sanghoon Kang, Donghyeon Han, Jinsu Lee, Wonhoon Park, Hankyul Kwon and Hoi-Jun Yoo; KAIST</td>
+    </tr>
+    <tr>
+      <td>HNPU-V2: A 46.6 FPS DNN Training Processor for Real-World Environmental Adaptation based Robust Object Detection on Mobile Devices <a href="/assets/program/posters/HC2022.KAIST.DonghyeonHan.v02.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/mKNitl9tLqQ" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Donghyeon Han, Dongseok Im, Gwangtae Park, Youngwoo Kim, Seokchan Song, Juhyoung Lee and Hoi-Jun Yoo; KAIST</td>
+    </tr>
+    <tr>
+      <td>VTA-NIC: Deep Learning Inference Serving in Network Interface Cards <a href="/assets/program/posters/HC2022.NTT.kenji_tanaka.v1.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Kenji Tanaka, Yuki Arikawa, Kazutaka Morita, Tsuyoshi Ito, Takashi Uchida, Natsuko Saito, Shinya Kaji and Takeshi Sakamoto; NTT Device Technology Labs, NTT Corporation</td>
+    </tr>
+    <tr>
+      <td>A 13.7μJ/prediction 88% Accuracy CIFAR-10 Single-Chip Wired-logic Processor in 16-nm FPGA Using Non-Linear Neural Network <a href="/assets/program/posters/HC2022.UTokyo.Yao-Chung_Hsu.v01.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Yao-Chung Hsu, Atsutake Kosuge, Rei Sumikawa, Kota Shiba, Mototsugu Hamada and Tadahiro Kuroda; The University of Tokyo</td>
+    </tr>
+    <tr>
+      <td>Neuro-CIM: A 310.4 TOPS/W Neuromorphic Computing-in-Memory Processor with Low WL/BL activity and Digital-Analog Mixed-mode Neuron Firing <a href="/assets/program/posters/HC2022.KAIST.SangyeobKim.v1.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/vafKvHtT8Ts" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Sangyeob Kim, Sangjin Kim, Soyeon Um, Soyeon Kim, Kwantae Kim and Hoi-Jun Yoo; KAIST</td>
+    </tr>
+    <tr>
+      <td>System architecture and software stack for GDDR6-AiM, SK hynix’s very first GDDR6- based Accelerator-in-Memory (AiM) <a href="/assets/program/posters/hc34.SKhynix.YongkeeKwon.v03.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Yongkee Kwon, Kornijcuk Vladimir, Nahsung Kim, Woojae Shin, Jongsoon Won, Minkyu Lee, Hyunha Joo, Haerang Choi, Guhyun Kim, Byeongju An, Jeongbin Kim, Jaewook Lee, Ilkon Kim, Jaehan Park, Chanwook Park, Yosub Song, Byeongsu Yang, Hyungdeok Lee, Seho Kim, Daehan Kwon, Seongju Lee, Kyuyoung Kim, Sanghoon Oh, Joonhong Park, Gimoon Hong, Dongyoon Ka, Kyudong Hwang, Jeongje Park, Kyeongpil Kang, Jungyeon Kim, Junyeol Jeon, Myeongjun Lee, Minyoung Shin, Minhwan Shin, Jaekyung Cha, Changson Jung, Kijoon Chang, Chunseok Jeong, Euicheol Lim, Il Park and Junhyun Chun; SK hynix</td>
+    </tr>
+    <tr>
+      <td>Vision Perception Unit: Next-Generation Smart CMOS Image Sensor <a href="/assets/program/posters/HC2022.THU.WenqiJi.v02.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/OWrK8waE7qQ" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Wenqi Ji, Yubin Hu, Futang Wang, Yuze He, Xi Li, Jun Zhang, Yuxing Han and Jiangtao Wen; Tsinghua University</td>
+    </tr>
+    <tr>
+      <td>Large-scale Graph Neural Network Services through Computational SSD and In-Storage Processing Architectures <a href="/assets/program/posters/HC2022.KAIST.MiryeongKwon.v01.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/xXCct6-qUEs" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Miryeong Kwon, Donghyun Gouk, Sangwon Lee and Myoungsoo Jung; KAIST</td>
+    </tr>
+    <tr>
+      <td>Trinity: End-to-End In-Database Near-Data Machine Learning Acceleration Platform for Advanced Data Analytics <a href="/assets/program/posters/HC2022.KAIST.JihoonKim.v04.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/CYBslbsqWGg" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Ji-Hoon Kim, Seunghee Han, Kwanghyun Park, Soo-Young Ji and Joo-Young Kim; KAIST</td>
+    </tr>
+    <tr>
+      <td>DFX: A Low-latency Multi-FPGA Appliance for Accelerating Transformer-based Text Generation <a href="/assets/program/posters/HC2022.KAIST.SeongminHong.v03.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Seongmin Hong, Seungjae Moon, Junsoo Kim, Sungjae Lee, Minsub Kim, Dongsoo Lee and Joo-Young Kim; KAIST</td>
+    </tr>
+    <tr>
+      <td>A 7-nm FinFET 1.2-TB/s/mm2 3D-Stacked SRAM with an Inductive Coupling Interface Using Over-SRAM Coils and Manchester-Encoded Synchronous Transceivers <a href="/assets/program/posters/HC2022.UTokyo.Kota_Shiba.v01.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Kota Shiba, Mitsuji Okada, Atsutake Kosuge, Mototsugu Hamada and Tadahiro Kuroda; The University of Tokyo</td>
+    </tr>
+    <tr>
+      <td>LightTrader: World’s first AI-enabled High-Frequency Trading Solution with 16 TFLOPS / 64 TOPS Deep Learning Inference Accelerators <a href="/assets/program/posters/HC2022.Rebellions.HyunsungKim.v04.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/POj3Ncb_Wig" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Hyunsung Kim, Sungyeob Yoo, Jaewan Bae, Kyeongryeol Bong, Yoonho Boo, Karim Charfi, Hyo-Eun Kim, Hyun Suk Kim, Jinseok Kim, Byungjae Lee, Jaehwan Lee, Myeongbo Shim, Sungho Shin, Jeong Seok Woo, Joo-Young Kim, Sunghyun Park, and Jinwook Oh; Rebellions Inc.</td>
+    </tr>
+    <tr>
+      <td>Accelerating Graphic Rendering on Programmable RISC-V GPUs <a href="/assets/program/posters/HC2022.vortex.BlaiseTine.v01.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Blaise Tine, Varun Saxena, Santosh Srivatsan, Joshua R. Simpson, Fadi Alzammar, Liam Paul Cooper, Sam Jijina, Swetha Rajagoplan, Tejaswini Anand Kumar, Jeff Young and Hyesoon Kim; Georgia Tech</td>
+    </tr>
+    <tr>
+      <td>From High-Level Frameworks to custom Silicon with SODA <a href="/assets/program/posters/HC2022.PNNL.Curzel.v01.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/rkLhJcZv_W0" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Serena Curzel, Nicolas Bohm Agostini, Reece Neff, Ankur Limaye, Jeff (Jun) Zhang, Vinay Amatya, Marco Minutoli, Vito Giovanni Castellana, Joseph Manzano, David Brooks, Gu-Yeon Wei, Fabrizio Ferrandi and Antonino Tumeo; Politecnico di Milano</td>
+    </tr>
+    <tr>
+      <td>An Energy-efficient High-quality FHD Super-resolution Mobile Accelerator SoC with Hybrid-precision and Energy-efficient Cache Subsystem <a href="/assets/program/posters/HC2022.KAIST.ZhiyongLi.v04.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a> <a href="https://youtu.be/QSsjBTI1JEY" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-video fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Zhiyong Li, Sangjin Kim, Dongseok Im, Donghyeon Han and Hoi-Jun Yoo; KAIST</td>
+    </tr>
+    <tr>
+      <td>Noema: Massive-Scale, Untethered, Real-Time Brain Activity Decoding <a href="/assets/program/posters/HC2022.UniversityOfToronto.AmeerAbdelhadi.Slides.v00.pdf"><i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i></a>
+</td>
+      <td>Ameer Abdelhadi, Eugene Sha and Andreas Moshovos; University of Toronto</td>
+    </tr>
+  </tbody>
+</table>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+
+      </footer>
+
+      
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="https://twitter.com/hotchipsorg" rel="noopener noreferrer" target="_blank"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://www.linkedin.com/company/hotchips" rel="noopener noreferrer" target="_blank"><i class="fab fa-fw fa-linkedin-in" aria-hidden="true"></i> Linkedin</a></li>
+        
+      
+        
+          <li><a href="https://www.facebook.com/groups/5183154550" rel="noopener noreferrer" target="_blank"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+        
+      
+    
+  </ul>
+</div>
+<!-- minimal-mistakes theme https://mmistakes.github.io/minimal-mistakes/ -->
+<div class="page__footer-copyright">© 2022 Hot Chips 34.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+  <script>
+  window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+  ga('create','UA-7432118-1','auto');
+  ga('set', 'anonymizeIp', false);
+  ga('send','pageview')
+</script>
+<script src="https://www.google-analytics.com/analytics.js" async></script>
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
